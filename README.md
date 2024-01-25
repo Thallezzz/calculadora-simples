@@ -1,2 +1,2 @@
 # calculadora-simples
-Calculadora básica em java
+Calculadora que executa as quatro operacoes basicas
